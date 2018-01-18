@@ -17,7 +17,7 @@
 | | | | [com.ibm.sbt.saml](https://github.ibm.com/van-staub/com.ibm.sbt.saml) | Java | IBM Connections | SAML 1.1 service provider implementation for IBM Connections Cloud  |
 | | | [📄](http://vanstaub.me/679) | Connections Cloud OAuth | PHP | IBM Connections | OAuth reference implementation for IBM Connections Cloud  |
 | 🏆 | [📺](https://www.youtube.com/watch?v=980RG8tr3VQ) | [📄](http://vanstaub.me/339) | [socialog](https://github.ibm.com/van-staub/socialog) | Java | Eclipse | A rich client platform to conduct log file analysis; winner Best of Connections |
-| | | [📄](https://www.ibm.com/developerworks/community/blogs/dpi/entry/micro_broker_osgi_commands1?lang=en) [📄](https://www.ibm.com/developerworks/community/blogs/dpi/entry/micro_broker_osgi_commands_part_218?lang=en) | MicroBroker OSGI Commands | Java | MQTT | MicroBroker MQTT commands for brokers runnin on OSGI platforms |
+| | | [📄](https://www.ibm.com/developerworks/community/blogs/dpi/entry/micro_broker_osgi_commands1?lang=en) [📄](https://www.ibm.com/developerworks/community/blogs/dpi/entry/micro_broker_osgi_commands_part_218?lang=en) | MicroBroker OSGI Commands | Java | MQTT | MicroBroker MQTT commands for brokers running on OSGI platforms |
 | | | [📄](https://www-10.lotus.com/ldd/lewiki.nsf/xpSearch.xsp?searchValue=%22Van%20Staub%22) | Lotus Expeditor Samples | Java | Eclipse | A variety of samples and how-tos for Lotus Expeditor, an Eclipse derivative work|
 | ⭐️ | | | [IBM QuickTools](http://www.domquery.info/ldd/sandbox.nsf/Threads/1D3BFB17C889FEFC852571CA00006C61?OpenDocument) | Java | Lotus QuickPlace | My first application that ran diagnostics on IBM QuickPlace customer servers |
 
