@@ -4,7 +4,7 @@
 ## Selected Work
 |  |  |  | Title   | Code   | Category | Summary |
 | :-: | :-: | :-: | :-----: | :----: | :------: | :-----: |
-| | | | [watsonworkspace-demo](https://github.com/van-ibm/watsonworkspace-dmo) | JS | IBM Watson Workspace | App for sales team to run scripted demos at scale  |
+| | | | [watsonworkspace-demo](https://github.com/van-ibm/watsonworkspace-demo) | JS | IBM Watson Workspace | App for sales team to run scripted demos at scale  |
 | ⭐️ | | | [watsonworkspace-bot](https://github.com/van-ibm/watsonworkspace-bot) | JS | IBM Watson Workspace | Custom bot-kit framework for creating chatbots |
 | ⭐️ | | | [watsonworkspace-sdk](https://github.com/van-ibm/watsonworkspace-sdk) | JS | IBM Watson Workspace | Unofficial Node.js SDK |
 | | [📺](https://www.youtube.com/watch?v=dEq8CYzXrn0) | | Delivering AI Solutions with Watson Workspace | | IBM Watson Workspace | Partner-facing webinar on solution route-to-market |
